@@ -48,7 +48,7 @@ const defaultObj = {
 const options = {
     type: ['Online', 'Offline'],
     experience: ['0-2 Years', '3-5 Years', '5 Years or more'],
-    technology: ['Java', 'JavaScript', 'React', 'Angular', 'Node.js', 'Docker', 'AWS', 'HTML', 'CSS'],
+    technology: ['Java ', 'JavaScript ', 'React ', 'Angular ', 'Node.js ', 'Docker ', 'AWS ', 'HTML ', 'CSS '],
     salary: ['Rs 0-300000', 'Rs 300000-500000', 'Rs 500000-800000', 'Rs 800000-1000000', 'Rs 1000000-1500000', 'Rs 1500000-2000000', 'Rs 2000000 or more']
 }
 

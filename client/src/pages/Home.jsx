@@ -15,7 +15,7 @@ const Component = styled(Box)({
         display: 'flex',
         justifyContent: 'center',
         '& > div > p': {
-            fontSize: 56,
+            fontSize: 50,
             lineHeight: 1.25,
             letterSpacing: -1
         },
@@ -42,7 +42,7 @@ const Home = () => {
             <Component>
                 <Box>
                     <Box>
-                        <Typography>Let's make your next<br/>great hire. Fast.</Typography>
+                        <Typography>Let's make your next<br/>great hire. Fast!</Typography>
                         <Button 
                             variant="contained"
                             onClick={() => navigate(routePath.create)}
